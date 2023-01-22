@@ -1,2 +1,3 @@
 # life-story
-This is for demo life story
+** Live link:
+https://eamin126237.github.io/life-story/
